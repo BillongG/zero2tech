@@ -6,7 +6,7 @@
 // 它们可以改成从网络接口实时取——而组件那边照样一个字都不用动。
 
 export const home = {
-  heroTitle: "关于我Who",
+  heroTitle: "关于我",
   heroSubtitle: "项目，创意，灵感，心得，我的作品",
   featuredWork: {
     kicker: "作品",
@@ -15,12 +15,12 @@ export const home = {
     linkLabel: "打开作品",
   },
   identity: {
-    motto: "天地玄黄，宇宙洪荒",
+    motto: "已识乾坤大，尤怜草木青",
     learning: "零到全栈",
   },
 };
 
 export const textLab = {
-  heroTitle: "文字实验室lab",
+  heroTitle: "文字实验室",
   heroSubtitle: "拼音和情绪，挖掘中文里的细节",
 };
