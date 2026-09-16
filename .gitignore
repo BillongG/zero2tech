@@ -21,3 +21,6 @@ dist/
 backend/.venv/
 backend/__pycache__/
 *.pyc
+
+# 数据不入Git
+*.db 
